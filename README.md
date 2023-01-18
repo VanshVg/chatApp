@@ -21,4 +21,7 @@ To deploy this project
 ```
 
 ## Screenshots
-![1](https://user-images.githubusercontent.com/88078960/213262319-e5711568-5aaa-477f-888d-d50ddee517bc.jpg)
+![1](https://user-images.githubusercontent.com/88078960/213263021-d938db67-c7d7-46ef-bb5a-363680b4a0ec.jpg)
+
+![2](https://user-images.githubusercontent.com/88078960/213263361-e70a3e63-e93f-4b30-ba04-38a7947d6108.jpg)
+
