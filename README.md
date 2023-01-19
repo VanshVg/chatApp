@@ -17,7 +17,7 @@ To install dependencies/packages
 ## Deployment
 To deploy this project
 ```bash
-  npm run dev
+  npm run app
 ```
 
 ## Screenshots
