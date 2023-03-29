@@ -6,7 +6,10 @@ Have built basic chat web app using socket.io, express and Node Js.
     * Node.Js
     * Express.Js
     * socket.io
-    
+ 
+Website is hosted on: https://amogus-chat.onrender.com/ 
+ 
+
 ## Installation
 To install dependencies/packages
 
